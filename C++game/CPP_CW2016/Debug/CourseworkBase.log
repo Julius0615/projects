@@ -1,0 +1,36 @@
+﻿Build started 26/02/2016 00:37:52.
+     1>Project "\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\SDL\include /ZI /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\\" /Fd"\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\vc120.pdb" /FR"\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\\" /Gd /TP /analyze- /errorReport:prompt DemoBObject.cpp
+         DemoBObject.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.pdb" /MAP:"map" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.lib" /MACHINE:X86 /SAFESEH \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\DemoAMain.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\DemoBObject.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\mainfunction.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\BaseEngine.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\DisplayableObject.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\FontManager.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\JPGImage.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\SimpleDemo.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\TileManager.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\BouncingBall.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\BouncingBallMain.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo1Main.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo2Main.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo2Object.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo2TileManager.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3Main.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3Object.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3ObjectFinished.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3TileManager.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo4Main.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo4Object.obj
+         \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo4TileManager.obj
+         CourseworkBase.vcxproj -> \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.bsc" \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\DemoAMain.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\DemoBObject.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\mainfunction.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\BaseEngine.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\DisplayableObject.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\FontManager.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\JPGImage.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\SimpleDemo.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\TileManager.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\BouncingBall.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\BouncingBallMain.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo1Main.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo2Main.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo2Object.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo2TileManager.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3Main.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3Object.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3ObjectFinished.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo3TileManager.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo4Main.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo4Object.sbr \\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\/Debug\Demo4TileManager.sbr
+     1>Done Building Project "\\UON2\Users05\6\psyyl6\MyProfile\Downloads\CPP_CW2016\CPP_CW2016\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.44
